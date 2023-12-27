@@ -165,7 +165,7 @@ const experiences = [
     company_name: "Personal",
     icon: laptopIcon,
     iconBg: "#383E56",
-    date: "Ongoing",
+    //date: "Ongoing",
     points: [
       "Created a virtual phone number using Twilio to analyze and respond to incoming WhatsApp messages.",
       "Utilized Microsoft Logic App for message analysis, Wolfram|Alpha Short Answers API for factual question responses, Microsoft Vision API for text detection in images, and IBM Watson API for transcribing voicenotes.",
