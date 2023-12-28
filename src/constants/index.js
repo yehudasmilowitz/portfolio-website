@@ -126,11 +126,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "December 2019 - Present",
     points: [
-      "Played a pivotal role in developing a new dashboard for company administrators using React.js, ensuring UI components closely matched designer mockups.",
-      "Transformed product team ideas into functional features for the advertising management platform, utilizing Angular 2+ and TypeScript.",
-      "Maintained and optimized the company's social platform developed with Ember.js, addressing existing bugs and implementing new features.",
-      "Developed a project automating data entry from Excel sheets into the company's platform using Kotlin.",
-      "Maintained and optimized legacy platforms with Ext.js (frontend) and PHP and Zend (backend), enhancing features and fixing bugs.",
+      "Quotient Technologies Inc, is a technology and data-driven marketing company. It provides a platform that enables digital promotions and advertising for retailers and consumer packaged goods (CPG) brands. Quotient's solutions help businesses target and engage consumers through personalized and data-driven promotions, loyalty programs, and digital advertising.",
     ],
   },
   {
@@ -140,11 +136,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "January 2018 – November 2019",
     points: [
-      "Contributed to engineering the frontend of the company's mortgage application with React, ensuring optimal layout and responsiveness.",
-      "Developed an Employee Onboarding Application, utilizing Semantic UI and jQuery for a streamlined, multi-step form.",
-      "Developed custom forms and plugins for the client software using the client's .NET SDK and programming with C# in Visual Studio.",
-      "Maintained, debugged, and enhanced the company's Intranet site, an existing PHP-based codebase with a MySQL database.",
-      "Developed a dashboard for IT management to track the company's inventory and monitor usage by employees.",
+      "FM Home Loans is a mortgage lending company that offers a range of home financing services. They assist individuals in securing mortgages for home purchases or refinancing existing mortgages. FM Home Loans may provide various mortgage products, including fixed-rate mortgages, adjustable-rate mortgages, and government-backed loans. Additionally, they may offer guidance and support throughout the mortgage application and approval process.",
     ],
   },
   {
@@ -155,9 +147,7 @@ const experiences = [
     date: "Ongoing",
     points: [
       "Providing freelance web development services with a focus on WordPress customization and development.",
-      "Creating tailored solutions for clients, ensuring seamless integration and user-friendly experiences.",
       "Expertise in building and customizing WordPress themes and plugins to meet specific client needs.",
-      "Collaborating with clients to understand their business requirements and delivering visually appealing and functional websites.",
     ],
   },
   {
