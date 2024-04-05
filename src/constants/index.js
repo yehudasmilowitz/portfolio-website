@@ -124,7 +124,7 @@ const experiences = [
     company_name: "Quotient Technologies Inc",
     icon: quotientIcon, 
     iconBg: "#383E56",
-    date: "December 2019 - Present",
+    date: "December 2019 - April 2024",
     points: [
       "Quotient Technologies Inc, is a technology and data-driven marketing company. It provides a platform that enables digital promotions and advertising for retailers and consumer packaged goods (CPG) brands. Quotient's solutions help businesses target and engage consumers through personalized and data-driven promotions, loyalty programs, and digital advertising.",
     ],
@@ -136,7 +136,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "January 2018 – November 2019",
     points: [
-      "FM Home Loans is a mortgage lending company that offers a range of home financing services. They assist individuals in securing mortgages for home purchases or refinancing existing mortgages. FM Home Loans may provide various mortgage products, including fixed-rate mortgages, adjustable-rate mortgages, and government-backed loans. Additionally, they may offer guidance and support throughout the mortgage application and approval process.",
+      "FM Home Loans is a mortgage lending company that offers a range of home financing services. They assist individuals in securing mortgages for home purchases or refinancing existing mortgages. FM Home Loans provides various mortgage products, including fixed-rate mortgages, adjustable-rate mortgages, and government-backed loans. Additionally, they offer guidance and support throughout the mortgage application and approval process.",
     ],
   },
   {
